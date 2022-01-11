@@ -9,6 +9,17 @@
 
 | **AZ COMMANDS** |
 | --- |
+### Azure CLI Commands
+
+- This repository contains some Azure CLI commands for your reference, as well as the direct link to the Microsoft official documentation
+
+- Feel free to send PRs and collaborate
+
+###AZ Commands
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
+| **AZ COMMANDS** |
+| --- |
 | [az account](https://docs.microsoft.com/en-us/cli/azure/account?view=azure-cli-latest) | Manage Azure subscription information. |
 | [az acr](https://docs.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest) | Manage private registries with Azure Container Registries. |
 | [az acs](https://docs.microsoft.com/en-us/cli/azure/acs?view=azure-cli-latest) | Manage Azure Container Services. |
@@ -91,8 +102,6 @@
 | [az feature](https://docs.microsoft.com/en-us/cli/azure/feature?view=azure-cli-latest) | Manage resource provider features. |
 | [az feedback](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest#az-feedback) | Send feedback to the Azure CLI Team. |
 | [az find](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest#az-find) | I&#39;m an AI robot, my advice is based on our Azure documentation as well as the usage patterns of Azure CLI and Azure ARM users. Using me improves Azure products and documentation. |
-| [az footprint](https://docs.microsoft.com/en-us/cli/azure/footprint?view=azure-cli-latest) |
- |
 | [az functionapp](https://docs.microsoft.com/en-us/cli/azure/functionapp?view=azure-cli-latest) | Manage function apps. To install the Azure Functions Core tools see [https://github.com/Azure/azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools). |
 | [az fzf](https://docs.microsoft.com/en-us/cli/azure/fzf?view=azure-cli-latest) | Commands to select active or default objects via fzf. |
 | [az graph](https://docs.microsoft.com/en-us/cli/azure/graph?view=azure-cli-latest) | Query the resources managed by Azure Resource Manager. |
