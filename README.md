@@ -1,22 +1,9 @@
 ### Azure CLI Commands
+![](https://raw.githubusercontent.com/rcarneironet/azure-cli-commands/main/azure.svg)
 
 - This repository contains some Azure CLI commands for your reference, as well as the direct link to the Microsoft official documentation
-
 - Feel free to send PRs and collaborate
-
-###AZ Commands
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
-| **AZ COMMANDS** |
-| --- |
-### Azure CLI Commands
-
-- This repository contains some Azure CLI commands for your reference, as well as the direct link to the Microsoft official documentation
-
-- Feel free to send PRs and collaborate
-
-###AZ Commands
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+- Special thanks to Akshay Tondak (https://www.linkedin.com/in/akshay-tondak/) for putting it all together
 
 | **AZ COMMANDS** |
 | --- |
